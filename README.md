@@ -36,4 +36,3 @@ This project is a **MySQL-based Restaurant Database and SQL Analysis project**. 
 To practice SQL and relational database concepts by creating a restaurant database and performing practical data analysis using SQL queries.
 
 
-GitHub: [Harinii2004](https://github.com/Harinii2004)
